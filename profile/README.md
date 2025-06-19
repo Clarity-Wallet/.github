@@ -1,4 +1,4 @@
-# 💼 Clarity Wallet – Asistente Financiero Inteligente
+# 💼 WallyFit – Asistente Financiero Inteligente
 
 **Clarity Wallet** es una plataforma móvil de gestión financiera personal impulsada por inteligencia artificial. Nuestra misión es empoderar a las personas para que puedan tomar decisiones financieras informadas, alcanzar sus metas económicas y construir un futuro sólido a través de tecnología intuitiva, automatización y educación financiera personalizada.
 
