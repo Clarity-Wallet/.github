@@ -19,7 +19,7 @@ La gestión financiera personal continúa siendo un desafío global:
 
 ## 🧠 Nuestra Solución
 
-Clarity Wallet ofrece una experiencia integral y simplificada:
+Walify ofrece una experiencia integral y simplificada:
 
 - 📲 Registro automático y categorización inteligente de transacciones.
 - 🎯 Presupuestos dinámicos y metas financieras personalizadas.
